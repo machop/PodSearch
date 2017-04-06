@@ -1,0 +1,5 @@
+﻿{
+  "ConnectionStrings": {
+    "PodSearchConnection": "Server=(localdb);Database=Podsearch;Trusted_Connection=True;"    
+  }
+}

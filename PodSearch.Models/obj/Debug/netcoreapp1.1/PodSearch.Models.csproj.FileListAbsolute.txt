@@ -1,0 +1,7 @@
+c:\PS\PodSearch\PodSearch.Models\bin\Debug\netcoreapp1.1\PodSearch.Models.deps.json
+c:\PS\PodSearch\PodSearch.Models\bin\Debug\netcoreapp1.1\PodSearch.Models.dll
+c:\PS\PodSearch\PodSearch.Models\bin\Debug\netcoreapp1.1\PodSearch.Models.pdb
+c:\PS\PodSearch\PodSearch.Models\obj\Debug\netcoreapp1.1\PodSearch.Models.csprojResolveAssemblyReference.cache
+c:\PS\PodSearch\PodSearch.Models\obj\Debug\netcoreapp1.1\PodSearch.Models.AssemblyInfo.cs
+c:\PS\PodSearch\PodSearch.Models\obj\Debug\netcoreapp1.1\PodSearch.Models.dll
+c:\PS\PodSearch\PodSearch.Models\obj\Debug\netcoreapp1.1\PodSearch.Models.pdb
